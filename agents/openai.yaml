@@ -1,0 +1,8 @@
+# 水粉绘本 PPT 修改了技能界面配置。
+interface:
+  display_name: "水粉绘本 PPT"
+  short_description: "按图文逻辑选择内容页版式，搭配主题标题字体、水粉背景与分层装饰，输出可编辑 PPT"
+  brand_color: "#2F6F9F"
+  default_prompt: "用 $gouache-ppt 按我给的内容和版式图做水粉绘本 PPT，重点设计内容页的图文关系、主题字体和分层装饰。"
+policy:
+  allow_implicit_invocation: true
